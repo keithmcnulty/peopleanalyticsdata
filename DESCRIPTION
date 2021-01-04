@@ -1,0 +1,18 @@
+Package: peopleanalyticsdata
+Title: Data Sets for Handbook of Regression Modelling in People Analytics
+Version: 0.0.9000
+Authors@R: 
+  c(person(given = "Keith",
+           family = "McNulty",
+           role = c("aut", "cre"),
+           email = "keith.mcnulty@gmail.com",
+           comment = c(ORCID = "0000-0002-2332-1654")))
+Description: Data sets for statustical inference modeling related to People Analytics.  Contains eleven data sets from the book Handbook of Regression Modeling in People Analytics.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+URL: http://peopleanalytics-regression-book.org
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)

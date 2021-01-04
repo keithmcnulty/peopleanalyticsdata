@@ -1,0 +1,24 @@
+#' Speed dating data
+#'
+#' Simplified version of the Columbia University speed dating experiment data set
+#'
+#' @format A dataframe with 8378 rows and 11 variables:
+#' \describe{
+#' \item{iid}{An id number for the individual}
+#' \item{gender}{The gender of the individual with 0 as Female and 1 and Male}
+#' \item{match}{Indicates if the meeting resulted in a match}
+#' \item{samerace}{Indicates if both the individual and the partner were of the same race}
+#' \item{race}{The race of the individual, with race coded as follows: Black/African American=1, European/Caucasian-American=2, Latino/Hispanic American=3, Asian/Pacific Islander/Asian-American=4, Native American=5, Other=6}
+#' \item{goal}{The reason why the individual is participating in the event, coded as follows: Seemed like a fun night out=1, To meet new people=2, To get a date=3, Looking for a serious relationship=4, To say I did it=5, Other=6}
+#' \item{dec}{A binary rating from the individual as to whether they would like to see their partner again (1 is Yes and 0 is No)}
+#' \item{attr}{The individual’s rating out of ten on the attractiveness of the partner}
+#' \item{intel}{The individual’s rating out of ten on the intelligence level of the partner}
+#' \item{prob}{The individual’s rating out of ten on whether they believe the partner will want to see them again}
+#' \item{agediff}{The absolute difference in the ages of the individual and the partner}
+#' }
+#'
+#' @source \href{http://www.stat.columbia.edu/~gelman/arm/examples/speed.dating/}{Andrew Gelman}
+#'
+#' @examples
+#' speed_dating
+"speed_dating"
