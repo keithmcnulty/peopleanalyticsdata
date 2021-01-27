@@ -8,7 +8,7 @@ Authors@R:
            email = "keith.mcnulty@gmail.com",
            comment = c(ORCID = "0000-0002-2332-1654")))
 Description: Data sets for statistical inference modeling related to People Analytics.  
-  Contains eleven data sets from the book "Handbook of Regression Modeling in People Analytics" 
+  Contains various data sets from the book "Handbook of Regression Modeling in People Analytics" 
   by Keith McNulty (2020).
 License: MIT + file LICENSE
 Encoding: UTF-8
