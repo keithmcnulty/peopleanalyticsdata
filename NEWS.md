@@ -2,6 +2,7 @@
 
 * Added `employee_performance` dataset
 * Added `recruiting` dataset
+* Added `promotion` dataset
 * Changed `job_retention` dataset
 
 # peopleanalyticsdata 0.1.0
