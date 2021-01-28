@@ -22,7 +22,7 @@ A dataframe with 2108 rows and 23 variables:
 politics_survey
 }
 \description{
-Fictional data from a survey conducted by a political party on a Likert scale of 1 to 10 indicating increasingly positive sentiment
+Fictional data from a survey conducted by a political party on a Likert scale of 1 to 4 indicating increasingly positive sentiment
 }
 \examples{
 politics_survey

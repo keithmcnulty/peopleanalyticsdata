@@ -1,6 +1,6 @@
 #' Politics survey data
 #'
-#' Fictional data from a survey conducted by a political party on a Likert scale of 1 to 10 indicating increasingly positive sentiment
+#' Fictional data from a survey conducted by a political party on a Likert scale of 1 to 4 indicating increasingly positive sentiment
 #'
 #' @format A dataframe with 2108 rows and 23 variables:
 #' \describe{

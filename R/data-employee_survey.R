@@ -1,6 +1,6 @@
 #' Employee survey data
 #'
-#' Fictional data on the results of an engagement survey among company employees on a five-point Likert scale indicating increasingly positive sentiment
+#' Fictional data on the results of an engagement survey among company employees on a four-point Likert scale indicating increasingly positive sentiment
 #'
 #' @format A dataframe with 2833 rows and 14 variables:
 #' \describe{
