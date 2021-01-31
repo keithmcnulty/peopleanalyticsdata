@@ -3,6 +3,10 @@
 * Added `employee_performance` dataset
 * Added `recruiting` dataset
 * Added `promotion` dataset
+* Added `graduates` data set
+* Added `learning` data set
+* Changed `politics_survey` data set
+* Changes `employee_survey` data set
 * Changed `job_retention` dataset
 
 # peopleanalyticsdata 0.1.0

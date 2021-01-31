@@ -1,10 +1,10 @@
 #' Health insurance data
 #'
-#' Fictional data on the demographics and the choice of health insurance policy by employees of a large company
+#' Fictional data on the choice of health insurance product by employees of a large company
 #'
 #' @format A dataframe with 1453 rows and 6 variables:
 #' \describe{
-#' \item{product}{The choice of policy the individual - A, B or C}
+#' \item{product}{The choice of product the individual - A, B or C}
 #' \item{age}{The age of the individual when they made the choice}
 #' \item{children}{The number of child dependents the individual had at the time of the choice}
 #' \item{position_level}{Position level in the company at the time they made the choice, where 1 is is the lowest and 5 is the highest}
