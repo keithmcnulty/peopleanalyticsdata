@@ -1,4 +1,4 @@
-#' Charity donations dataset
+#' Charity donation data
 #'
 #' Fictional data on the demographics and donation behavior of donors to a wildlife charity
 #'

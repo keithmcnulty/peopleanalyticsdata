@@ -3,7 +3,7 @@
 \docType{data}
 \name{charity_donation}
 \alias{charity_donation}
-\title{Charity donations dataset}
+\title{Charity donation data}
 \format{
 A dataframe with 354 rows and 8 variables:
 \describe{
