@@ -1,4 +1,6 @@
-# peopleanalytics data 0.1.9000
+# peopleanalyticsdata 0.2.9000
+
+# peopleanalytics data 0.2.0
 
 * Added `employee_performance` dataset
 * Added `recruiting` dataset
