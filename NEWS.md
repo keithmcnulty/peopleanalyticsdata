@@ -1,4 +1,6 @@
-# peopleanalyticsdata 0.2.9000
+# peopleanalyticsdata 0.2.0.9000
+
+* Adjusted `charity_donations` and `health_insurance` for more realism in data set
 
 # peopleanalytics data 0.2.0
 
