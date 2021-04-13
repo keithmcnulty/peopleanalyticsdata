@@ -1,6 +1,6 @@
 Package: peopleanalyticsdata
 Title: Data Sets for Keith McNulty's Handbook of Regression Modeling in People Analytics
-Version: 0.2.9000
+Version: 0.2.1.9999
 Authors@R: 
   c(person(given = "Keith",
            family = "McNulty",
