@@ -3,7 +3,6 @@
 status](https://www.r-pkg.org/badges/version/peopleanalyticsdata)](https://CRAN.R-project.org/package=peopleanalyticsdata)
 [![Total
 Downloads](http://cranlogs.r-pkg.org/badges/grand-total/peopleanalyticsdata?color=green)](https://cran.r-project.org/package=peopleanalyticsdata)
-[![R build status](https://github.com/keithmcnulty/peopleanalyticsdata/workflows/R-CMD-check/badge.svg)](https://github.com/keithmcnulty/peopleanalyticsdata/actions)
 [![R-CMD-check](https://github.com/keithmcnulty/peopleanalyticsdata/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/keithmcnulty/peopleanalyticsdata/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
