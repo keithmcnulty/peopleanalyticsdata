@@ -1,6 +1,6 @@
 Package: peopleanalyticsdata
 Title: Data Sets for Keith McNulty's Handbook of Regression Modeling in People Analytics
-Version: 0.2.1.9999
+Version: 0.2.2
 Authors@R: 
   c(person(given = "Keith",
            family = "McNulty",
@@ -9,12 +9,12 @@ Authors@R:
            comment = c(ORCID = "0000-0002-2332-1654")))
 Description: Data sets for statistical inference modeling related to People Analytics.  
   Contains various data sets from the book 'Handbook of Regression Modeling in People Analytics' 
-  by Keith McNulty (2020).
+  by Keith McNulty (2026).
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-URL: http://peopleanalytics-regression-book.org
+URL: https://peopleanalytics-regression-book.org
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.1
 Depends: 
-    R (>= 2.10)
+    R (>= 3.5.0)
+Config/roxygen2/version: 8.0.0

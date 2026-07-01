@@ -21,7 +21,7 @@ A dataframe with 8378 rows and 11 variables:
 }
 }
 \source{
-\href{http://www.stat.columbia.edu/~gelman/arm/examples/speed.dating/}{Andrew Gelman}
+\href{https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment}{Andrew Gelman}
 }
 \usage{
 speed_dating

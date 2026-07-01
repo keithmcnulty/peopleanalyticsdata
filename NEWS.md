@@ -1,4 +1,8 @@
-# peopleanalyticsdata 0.2.1.9999
+# peopleanalyticsdata 0.2.2
+
+* Added `absenteeism` dataset
+* Added `complaints` dataset
+* Added `selection` dataset
 
 # peopleanalyticsdata 0.2.1
 

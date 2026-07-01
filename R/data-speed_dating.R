@@ -17,7 +17,7 @@
 #' \item{agediff}{The absolute difference in the ages of the individual and the partner}
 #' }
 #'
-#' @source \href{http://www.stat.columbia.edu/~gelman/arm/examples/speed.dating/}{Andrew Gelman}
+#' @source \href{https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment}{Andrew Gelman}
 #'
 #' @examples
 #' speed_dating
